@@ -11,4 +11,6 @@ Static Materialize CSS Framework Theme - Quazzu
 
 ### Preview
 
-[View Design](https://raw.githubusercontent.com/edantal/Theme-Quazzu--MaterializeCSS/master/preview.jpg)
+[Homepage](https://raw.githubusercontent.com/edantal/Theme-Quazzu--MaterializeCSS/master/preview-home.jpg)
+[Signup](https://raw.githubusercontent.com/edantal/Theme-Quazzu--MaterializeCSS/master/preview-signup.jpg)
+[Solutions page](https://raw.githubusercontent.com/edantal/Theme-Quazzu--MaterializeCSS/master/preview-solutions.jpg)
